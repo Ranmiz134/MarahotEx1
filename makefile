@@ -1,3 +1,6 @@
+#RAN MIZRAHI 314809625
+#makefile
+
 CC=gcc
 AR=ar 
 OBJECTS_MAIN=main.o
