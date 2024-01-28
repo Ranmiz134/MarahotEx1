@@ -1,3 +1,6 @@
+//RAN MIZRAHI 314809625
+//main.c
+
 #include <stdio.h>
 #include "NumClass.h"
 
