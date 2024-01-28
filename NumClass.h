@@ -1,3 +1,6 @@
+//RAN MIZRAHI 314809625
+//NumClass.h
+
 #include <stdio.h>
 
 #define TRUE 1
